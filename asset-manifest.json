@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flexiplan/static/css/main.d72205c2.css",
+    "main.js": "/flexiplan/static/js/main.c1ba5ad4.js",
+    "static/js/453.e2bcff0c.chunk.js": "/flexiplan/static/js/453.e2bcff0c.chunk.js",
+    "index.html": "/flexiplan/index.html",
+    "main.d72205c2.css.map": "/flexiplan/static/css/main.d72205c2.css.map",
+    "main.c1ba5ad4.js.map": "/flexiplan/static/js/main.c1ba5ad4.js.map",
+    "453.e2bcff0c.chunk.js.map": "/flexiplan/static/js/453.e2bcff0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72205c2.css",
+    "static/js/main.c1ba5ad4.js"
+  ]
+}
